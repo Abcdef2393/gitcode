@@ -1,9 +1,2 @@
-webcontent":[{"class":"script","globalid":"s","content":[{"id":"4","text":["When message received..."],"actions":[],"
-warning":"This event changes the following variables:\n- {messageContent}\n- {messageSenderId}\n- {messageSenderName}"}]},
-{"class":"script","globalid":"\u0016","content":[{"id":"0","text":["When website loaded..."],"actions":[{"id":"33","t":"0","text":["Broadcast",
-{"value":"E","l":"message","t":"string"},"across site"]}]}]},{"class":"script","globalid":"1","content":[{"id":"4","text"
-:["When message received..."],"actions":[{"id":"0","t":"0","text":["Log",{"value":"{messageSenderId}","t":"
-string"}]},{"id":"0","t":"0","text":["Log",{"value":"","t":"string"}]}],"warning":"This event changes the 
-following variables:\n- {messageContent}\n- {messageSenderId}\n- {messageSenderName}"}]},{"class":"script"
-,"globalid":"A","content":[]},{"image_id":"16944769468","image":"rbxthumb://type=Asset&id=16944769468&w=420&h=420",
-"class":"ImageLabel","globalid":"7","size":"{0.3,0},{0.3,0}"}]}
+
+
